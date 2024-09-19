@@ -4,7 +4,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -12,18 +12,15 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
-      
-      - name: General
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # GitHub token
-          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: sgm17
+          template: classic
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, achievements, calendar
