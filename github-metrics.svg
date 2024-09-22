@@ -1096,16 +1096,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.09mb of code in 1221 edited files across 94 commits</small>
+                <small>estimation from 2.10mb of code in 1232 edited files across 95 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.0195631501631" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="428.0195631501631" y="0" width="25.325356928966237" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.34492007912934" y="0" width="4.641598705236508" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.98651878436584" y="0" width="2.0134812156341364" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.12869032594017" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="428.12869032594017" y="0" width="25.238938951307553" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.3676292772477" y="0" width="4.625760129917125" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.9933894071648" y="0" width="2.006610592835141" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1117,9 +1117,9 @@
                                 Dart
                             </div>
                             <small>
-                                <div>35.8k lines</div>
-                                <div>840 kB</div>
-                                <div>93.05%</div>
+                                <div>35.9k lines</div>
+                                <div>843 kB</div>
+                                <div>93.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1132,7 +1132,7 @@
                             <small>
                                 <div>2.89k lines</div>
                                 <div>49.7 kB</div>
-                                <div>5.51%</div>
+                                <div>5.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1166,7 +1166,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 152kb of code in 127 edited files across 42 commits over last 5 days</small>
+                <small>estimation from 163kb of code in 165 edited files across 44 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1184,8 +1184,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>3.84k lines</div>
-                                <div>117 kB</div>
+                                <div>3.98k lines</div>
+                                <div>120 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
