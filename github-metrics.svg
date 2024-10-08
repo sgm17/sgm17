@@ -1172,7 +1172,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 119kb of code in 155 edited files across 30 commits over last 14 days</small>
+                <small>estimation from 87.7kb of code in 124 edited files across 26 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1190,8 +1190,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>3.36k lines</div>
-                                <div>118 kB</div>
+                                <div>2.52k lines</div>
+                                <div>86.7 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1316,7 +1316,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.58m out of 146m users</span>
+                                    <span class="gh">ranked 8.58m out of 144m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
