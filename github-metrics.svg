@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1366" class="">
     <defs>
         <style/>
     </defs>
@@ -1173,16 +1173,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 92.5kb of code in 81 edited files across 28 commits over last 5 days</small>
+                <small>estimation from 93.1kb of code in 84 edited files across 31 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.6182136602452" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="209.6182136602452" y="0" width="172.80829853159102" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="382.4265121918362" y="0" width="44.53751852350802" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="426.9640307153442" y="0" width="33.0359692846558" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.49630303111337" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="211.49630303111337" y="0" width="171.51208033052106" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="383.00838336163446" y="0" width="44.20344693880279" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="427.2118303004372" y="0" width="32.78816969956278" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1194,9 +1194,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>894 lines</div>
-                                <div>33.8 kB</div>
-                                <div>45.57%</div>
+                                <div>908 lines</div>
+                                <div>34.3 kB</div>
+                                <div>45.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1209,7 +1209,7 @@
                             <small>
                                 <div>845 lines</div>
                                 <div>27.8 kB</div>
-                                <div>37.57%</div>
+                                <div>37.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1222,7 +1222,7 @@
                             <small>
                                 <div>171 lines</div>
                                 <div>7.19 kB</div>
-                                <div>9.68%</div>
+                                <div>9.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1235,7 +1235,7 @@
                             <small>
                                 <div>152 lines</div>
                                 <div>5.33 kB</div>
-                                <div>7.18%</div>
+                                <div>7.13%</div>
                             </small>
                         </div>
                     </section>
@@ -2215,6 +2215,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">sgm17/linkedinscraper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#04a92b2</div>
+                                        <div class="message">update main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c205f6</div>
+                                        <div class="message">fix little bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">sgm17/find-job-react</span>
                                     </div>
@@ -2284,22 +2308,6 @@
                                     <div class="commit">
                                         <div class="sha">#583f15a</div>
                                         <div class="message">first commit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">sgm17/find-job-react</span>
                                     </div>
                                 </div>
                             </section>
