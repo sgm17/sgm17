@@ -1178,19 +1178,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 112kb of code in 121 edited files across 39 commits over last 13 days</small>
+                <small>estimation from 118kb of code in 129 edited files across 41 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.51538989823314" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="197.51538989823314" y="0" width="190.58250608728227" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="388.0978959855154" y="0" width="41.28138852469252" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="429.37928451020787" y="0" width="30.620715489792097" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.71967375362198" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="202.71967375362198" y="0" width="188.6173878826181" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.3370616362401" y="0" width="39.42167582843447" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="430.75873746467454" y="0" width="29.241262535325472" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>1.23k lines</div>
+                                <div>36.9 kB</div>
+                                <div>44.07%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1201,20 +1214,7 @@
                             <small>
                                 <div>908 lines</div>
                                 <div>34.3 kB</div>
-                                <div>42.94%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TypeScript
-                            </div>
-                            <small>
-                                <div>1.07k lines</div>
-                                <div>33.1 kB</div>
-                                <div>41.43%</div>
+                                <div>41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1227,7 +1227,7 @@
                             <small>
                                 <div>171 lines</div>
                                 <div>7.19 kB</div>
-                                <div>8.97%</div>
+                                <div>8.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1240,7 +1240,7 @@
                             <small>
                                 <div>152 lines</div>
                                 <div>5.33 kB</div>
-                                <div>6.66%</div>
+                                <div>6.36%</div>
                             </small>
                         </div>
                     </section>
@@ -2227,6 +2227,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4c548af</div>
+                                        <div class="message">finish the implementation of the home page and scroll to the home titles</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/invelex-react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#3631e06</div>
                                         <div class="message">footer implemented</div>
                                     </div>
@@ -2279,26 +2299,6 @@
                                         Created new
                       repository
                                         <span class="repo">sgm17/invelex-react</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sgm17/find-job-react</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ea6bbd8</div>
-                                        <div class="message">add the date parameter in the contacts object and them by date</div>
                                     </div>
                                 </div>
                             </section>
