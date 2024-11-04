@@ -1167,14 +1167,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 15.7kb of code in 23 edited files across 8 commits over last 14 days</small>
+                <small>estimation from 9.41kb of code in 15 edited files across 6 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.9118149061255" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="364.9118149061255" y="0" width="95.08818509387446" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.1577669902913" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="320.1577669902913" y="0" width="139.84223300970874" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1186,9 +1186,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>258 lines</div>
-                                <div>8.37 kB</div>
-                                <div>79.33%</div>
+                                <div>100 lines</div>
+                                <div>4.59 kB</div>
+                                <div>69.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1199,9 +1199,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>74 lines</div>
-                                <div>2.18 kB</div>
-                                <div>20.67%</div>
+                                <div>70 lines</div>
+                                <div>2 kB</div>
+                                <div>30.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1325,7 +1325,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.04m out of 148m users</span>
+                                    <span class="gh">ranked 7.04m out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
