@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1269" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1232" class="">
     <defs>
         <style/>
     </defs>
@@ -1115,7 +1115,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="424.9231101553603" height="8" fill="#00B4AB"/>
                     <rect mask="url(#languages-bar)" x="424.9231101553603" y="0" width="23.119217236531654" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.0423273918919" y="0" width="8.275934132803904" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.0423273918919" y="0" width="8.275934132803904" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="456.3182615246958" y="0" width="3.6817384753041917" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
@@ -1149,7 +1149,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TSX
                             </div>
@@ -1177,29 +1177,9 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.50kb of code in 4 edited files across 2 commits over last 14 days</small>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3178c6"/>
-                </svg>
+                <small>No recent push activity found</small>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>68 lines</div>
-                                <div>1.97 kB</div>
-                                <div>100%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
