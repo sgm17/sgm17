@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1269" class="">
     <defs>
         <style/>
     </defs>
@@ -1177,14 +1177,13 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.38kb of code in 8 edited files across 4 commits over last 14 days</small>
+                <small>estimation from 3.50kb of code in 4 edited files across 2 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.3824608202734" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="307.3824608202734" y="0" width="152.61753917972658" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1196,22 +1195,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>70 lines</div>
-                                <div>2 kB</div>
-                                <div>66.82%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TypeScript
-                            </div>
-                            <small>
-                                <div>38 lines</div>
-                                <div>995 bytes</div>
-                                <div>33.18%</div>
+                                <div>68 lines</div>
+                                <div>1.97 kB</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
@@ -1271,7 +1257,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.10711841204657 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.3193018480493 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1335,7 +1321,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.05m out of 148m users</span>
+                                    <span class="gh">ranked 7.05m out of 146m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
