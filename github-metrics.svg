@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1359" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1343" class="">
     <defs>
         <style/>
     </defs>
@@ -1172,15 +1172,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 29.6kb of code in 53 edited files across 54 commits over last 5 days</small>
+                <small>estimation from 30.7kb of code in 56 edited files across 58 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.3181883126161" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="247.3181883126161" y="0" width="197.40105729389913" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.7192456065152" y="0" width="15.280754393484782" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.59766563680054" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="255.59766563680054" y="0" width="189.7164435290079" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="445.3141091658084" y="0" width="14.685890834191555" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1192,9 +1192,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>523 lines</div>
-                                <div>15 kB</div>
-                                <div>53.76%</div>
+                                <div>567 lines</div>
+                                <div>16.1 kB</div>
+                                <div>55.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1207,7 +1207,7 @@
                             <small>
                                 <div>293 lines</div>
                                 <div>12 kB</div>
-                                <div>42.91%</div>
+                                <div>41.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1220,7 +1220,7 @@
                             <small>
                                 <div>35 lines</div>
                                 <div>930 bytes</div>
-                                <div>3.32%</div>
+                                <div>3.19%</div>
                             </small>
                         </div>
                     </section>
@@ -2198,6 +2198,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/client-sopra-individual</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#83d331f</div>
+                                        <div class="message">redo the last change</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/client-sopra-individual</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3b518</div>
+                                        <div class="message">update the user when the profile data is different</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">sgm17/client-sopra-individual</span>
                                     </div>
@@ -2255,50 +2295,6 @@
                                     <div class="commit">
                                         <div class="sha">#f8cbc1e</div>
                                         <div class="message">remove explicit error variable</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sgm17/client-sopra-individual</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6ff9d11</div>
-                                        <div class="message">remove explicit error variable</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sgm17/client-sopra-individual</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f26424</div>
-                                        <div class="message">update error messages to make them more specific</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5281e52</div>
-                                        <div class="message">update message error when loggin user</div>
                                     </div>
                                 </div>
                             </section>
