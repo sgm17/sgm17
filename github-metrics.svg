@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1108,16 +1108,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.98mb of code in 1641 edited files across 152 commits</small>
+                <small>estimation from 3.14mb of code in 1675 edited files across 173 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.49400382833517" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="425.49400382833517" y="0" width="22.970292154550787" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.4642959828859" y="0" width="8.77645389247777" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.2407498753637" y="0" width="2.7592501246363126" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.1844246814037" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="421.1844246814037" y="0" width="23.107978965068856" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.2924036464725" y="0" width="12.976293054677939" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.2686967011505" y="0" width="2.7313032988495545" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1131,7 +1131,7 @@
                             <small>
                                 <div>42.1k lines</div>
                                 <div>1.05 MB</div>
-                                <div>92.5%</div>
+                                <div>91.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1142,9 +1142,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.08k lines</div>
-                                <div>56.7 kB</div>
-                                <div>4.99%</div>
+                                <div>3.11k lines</div>
+                                <div>57.7 kB</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1155,9 +1155,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>867 lines</div>
-                                <div>21.7 kB</div>
-                                <div>1.91%</div>
+                                <div>1.28k lines</div>
+                                <div>32.4 kB</div>
+                                <div>2.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1170,7 +1170,7 @@
                             <small>
                                 <div>235 lines</div>
                                 <div>6.82 kB</div>
-                                <div>0.6%</div>
+                                <div>0.59%</div>
                             </small>
                         </div>
                     </section>
@@ -1392,7 +1392,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7788944723618091 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1420,10 +1420,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">1</div>
+                                        <div class="value">2</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 1 pull request</div>
+                                <div class="text">Opened 2 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
