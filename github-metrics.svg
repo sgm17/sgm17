@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1000" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1033" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1091,16 +1091,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.71mb of code in 1862 edited files across 285 commits</small>
+                <small>estimation from 3.71mb of code in 1869 edited files across 289 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.79017893015805" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="396.79017893015805" y="0" width="31.186996856299942" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.977175786458" y="0" width="29.449713098422244" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.4268888848802" y="0" width="2.5731111151197705" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.5862897257765" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="396.5862897257765" y="0" width="31.265594664520588" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.8518843902971" y="0" width="29.576326678462458" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.4282110687595" y="0" width="2.571788931240468" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1114,7 +1114,7 @@
                             <small>
                                 <div>42.1k lines</div>
                                 <div>1.05 MB</div>
-                                <div>86.26%</div>
+                                <div>86.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1125,9 +1125,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>3.35k lines</div>
-                                <div>82.6 kB</div>
-                                <div>6.78%</div>
+                                <div>3.36k lines</div>
+                                <div>82.9 kB</div>
+                                <div>6.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1138,9 +1138,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.85k lines</div>
-                                <div>78 kB</div>
-                                <div>6.4%</div>
+                                <div>3.86k lines</div>
+                                <div>78.4 kB</div>
+                                <div>6.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1161,15 +1161,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 311kb of code in 246 edited files across 149 commits over last 12 days</small>
+                <small>estimation from 312kb of code in 253 edited files across 155 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.25341918107983" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="346.25341918107983" y="0" width="113.01743607008095" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.27085525116075" y="0" width="0.7291447488392319" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.0961940610623" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="345.0961940610623" y="0" width="114.17914401226822" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.27533807333054" y="0" width="0.724661926669455" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1181,9 +1181,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>4.28k lines</div>
+                                <div>4.29k lines</div>
                                 <div>107 kB</div>
-                                <div>75.27%</div>
+                                <div>75.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1194,9 +1194,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.21k lines</div>
-                                <div>35 kB</div>
-                                <div>24.57%</div>
+                                <div>1.23k lines</div>
+                                <div>35.6 kB</div>
+                                <div>24.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1256,6 +1256,54 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c125843</div>
+                                        <div class="message">print out environment when deployed in vercel</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d9243e0</div>
+                                        <div class="message">move to the winner screen after finishing a game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c66399</div>
+                                        <div class="message">update the url of the websocket endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ba708d</div>
+                                        <div class="message">create an api service instance inside each of the http requests</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2524b72</div>
                                         <div class="message">sergi's contributions</div>
                                     </div>
@@ -1298,46 +1346,6 @@
                                     <div class="commit">
                                         <div class="sha">#e724df4</div>
                                         <div class="message">fix compilation errors to build the app in vercel</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">game-logic</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0bccfdc</div>
-                                        <div class="message">sergi update second contribution</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">game-logic</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bdbff3b</div>
-                                        <div class="message">accept current changes for api service class</div>
                                     </div>
                                 </div>
                             </section>
