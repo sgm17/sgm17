@@ -1166,14 +1166,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 19.2kb of code in 27 edited files across 30 commits over last 13 days</small>
+                <small>estimation from 19.3kb of code in 28 edited files across 32 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.34017234304474" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.34017234304474" y="0" width="21.659827656955272" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.99338287692154" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.99338287692154" y="0" width="25.006617123078488" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1187,7 +1187,7 @@
                             <small>
                                 <div>365 lines</div>
                                 <div>9.29 kB</div>
-                                <div>95.29%</div>
+                                <div>94.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1198,9 +1198,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9 lines</div>
-                                <div>459 bytes</div>
-                                <div>4.71%</div>
+                                <div>12 lines</div>
+                                <div>534 bytes</div>
+                                <div>5.44%</div>
                             </small>
                         </div>
                     </section>
@@ -1233,6 +1233,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ws-lobby</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88b9f22</div>
+                                        <div class="message">fix: the dispatch object was expecting an action</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1298,26 +1318,6 @@
                                         <span class="code">lobby-websockets</span>
                                         in
                                         <span class="repo">cyrimu/sopra-fs25-group-16-server</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cyrimu/sopra-fs25-group-16-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/join-start-game</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9402256</div>
-                                        <div class="message">update log modal styles</div>
                                     </div>
                                 </div>
                             </section>
