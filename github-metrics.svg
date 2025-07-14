@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1379" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
     <defs>
         <style/>
     </defs>
@@ -1167,15 +1167,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 220kb of code in 164 edited files across 77 commits over last 14 days</small>
+                <small>estimation from 263kb of code in 176 edited files across 82 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.07133322282033" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="312.07133322282033" y="0" width="132.85044975876178" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.9217829815821" y="0" width="15.078217018417861" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.30387143900657" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="352.30387143900657" y="0" width="96.71877282688094" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.02264426588755" y="0" width="10.977355734112491" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1187,9 +1187,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>3.22k lines</div>
-                                <div>77.7 kB</div>
-                                <div>67.84%</div>
+                                <div>5.18k lines</div>
+                                <div>120 kB</div>
+                                <div>76.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1202,7 +1202,7 @@
                             <small>
                                 <div>1.36k lines</div>
                                 <div>33.1 kB</div>
-                                <div>28.88%</div>
+                                <div>21.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1215,7 +1215,7 @@
                             <small>
                                 <div>99 lines</div>
                                 <div>3.76 kB</div>
-                                <div>3.28%</div>
+                                <div>2.39%</div>
                             </small>
                         </div>
                     </section>
@@ -1248,6 +1248,38 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">native-components</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6274e89</div>
+                                        <div class="message">extract the modals from the profile page and maintain them in an independent file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7c89e2</div>
+                                        <div class="message">refactor the profile page creating the account, preferences and accounts tabs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#198367b</div>
+                                        <div class="message">refactor the temperature tab and create the TemperatureCard component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7170eca</div>
+                                        <div class="message">refactor the count tab and create the CountCard and CountGrid components</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1424,26 +1456,6 @@
                                     <div class="commit">
                                         <div class="sha">#8c86196</div>
                                         <div class="message">format the schema and add the quantity field to the product set material</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#218b288</div>
-                                        <div class="message">fix build errors</div>
                                     </div>
                                 </div>
                             </section>
