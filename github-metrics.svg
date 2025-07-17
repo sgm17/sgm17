@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1182,15 +1182,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 269kb of code in 149 edited files across 68 commits over last 8 days</small>
+                <small>estimation from 394kb of code in 192 edited files across 89 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.75518493880503" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="417.75518493880503" y="0" width="32.070855433957156" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.82604037276224" y="0" width="10.17395962723778" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.12795332447575" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.12795332447575" y="0" width="18.99948009935879" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.12743342383453" y="0" width="5.872566576165444" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1202,9 +1202,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>6.15k lines</div>
-                                <div>154 kB</div>
-                                <div>90.82%</div>
+                                <div>10.5k lines</div>
+                                <div>278 kB</div>
+                                <div>94.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1215,9 +1215,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>534 lines</div>
-                                <div>11.8 kB</div>
-                                <div>6.97%</div>
+                                <div>546 lines</div>
+                                <div>12.1 kB</div>
+                                <div>4.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1230,7 +1230,7 @@
                             <small>
                                 <div>99 lines</div>
                                 <div>3.76 kB</div>
-                                <div>2.21%</div>
+                                <div>1.28%</div>
                             </small>
                         </div>
                     </section>
@@ -1263,6 +1263,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">native-components</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1bc9f02</div>
+                                        <div class="message">remove the selectMaterialStatus selector</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#481e5b9</div>
+                                        <div class="message">remove pages from the root stack</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7db2f0</div>
+                                        <div class="message">remove the user when updating the temperature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#203ad1d</div>
+                                        <div class="message">create a linking to display each of the paths in web</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0417e78</div>
+                                        <div class="message">each tab already contain the TabsContent component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18ba0cd</div>
+                                        <div class="message">removed the htmlFor param for the label component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14180f3</div>
+                                        <div class="message">extracted the overheads tab from the materials page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd930cb</div>
+                                        <div class="message">extracted the sets tab from the materials page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95f8a2b</div>
+                                        <div class="message">extracted the ingredients tab from the materials page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75b53ca</div>
+                                        <div class="message">use the dialog component instead of an independent modal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f3b190</div>
+                                        <div class="message">migrate the collapsible component to a react native one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#163f7b9</div>
+                                        <div class="message">migrate the dialog component to a react native component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b484e62</div>
+                                        <div class="message">refactor the administration page extracting the temperatures, staff and count tabs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8a5174</div>
+                                        <div class="message">include the method calculateLatestPriceFromMaterial</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cdd444</div>
+                                        <div class="message">configure splash icon background color</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acbc44e</div>
+                                        <div class="message">remove unused ui components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#358d5e1</div>
+                                        <div class="message">remove unused component ui command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f09d33f</div>
+                                        <div class="message">remove unused component ui context-menu</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95360c2</div>
+                                        <div class="message">migrate the dialog component to a react native one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#530ba06</div>
+                                        <div class="message">delete unused pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1427,102 +1523,6 @@
                                         <span class="code">native-components</span>
                                         in
                                         <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed6dbdf</div>
-                                        <div class="message">remove package lock json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c1196</div>
-                                        <div class="message">new generated yarn file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c913cd8</div>
-                                        <div class="message">add an error message when the ingredient has not been selected properly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cbc506</div>
-                                        <div class="message">components that compose the add set material modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeafe7e</div>
-                                        <div class="message">common component for ingredients and overheads</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19eb042</div>
-                                        <div class="message">when creating a new product material for a product, use the manual source</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9eed4c</div>
-                                        <div class="message">extract the material type type in an independent one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36cb14f</div>
-                                        <div class="message">create the type create product material for set</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5416441</div>
-                                        <div class="message">create a selector to select the ingredients and overheads</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45a52c9</div>
-                                        <div class="message">refactor the ingredient detail page by extracting the delete ingredient modal and price history components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40e92fc</div>
-                                        <div class="message">implementation of the sets feature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b8bf7b</div>
-                                        <div class="message">components that help to build the add and edit set modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3723220</div>
-                                        <div class="message">creation of the add set modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69ad7e3</div>
-                                        <div class="message">creation of the delete set modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#041242a</div>
-                                        <div class="message">refactored the Material page by extracting the Ingredients, Overheads and Sets tabs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33e9db1</div>
-                                        <div class="message">delete EditIngredientModal and ReceipeCard components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e53ee6e</div>
-                                        <div class="message">files generated from the android build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b26346</div>
-                                        <div class="message">modify the scripts to start both android and ios apps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0862b1</div>
-                                        <div class="message">include the name of the app package</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64743d7</div>
-                                        <div class="message">import the right stack navigation prop to move into the detailed screen</div>
                                     </div>
                                 </div>
                             </section>
