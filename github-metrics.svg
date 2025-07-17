@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1796" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1862" class="">
     <defs>
         <style/>
     </defs>
@@ -1182,15 +1182,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 408kb of code in 211 edited files across 98 commits over last 9 days</small>
+                <small>estimation from 440kb of code in 249 edited files across 105 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.17816774663885" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="436.17816774663885" y="0" width="18.197232971317547" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.3754007179564" y="0" width="5.624599282043604" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.0603086589251" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.0603086589251" y="0" width="20.837046157116667" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.8973548160418" y="0" width="5.10264518395824" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1202,9 +1202,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>11k lines</div>
-                                <div>291 kB</div>
-                                <div>94.82%</div>
+                                <div>11.9k lines</div>
+                                <div>319 kB</div>
+                                <div>94.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1215,9 +1215,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>546 lines</div>
-                                <div>12.1 kB</div>
-                                <div>3.96%</div>
+                                <div>706 lines</div>
+                                <div>15.3 kB</div>
+                                <div>4.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1230,7 +1230,7 @@
                             <small>
                                 <div>99 lines</div>
                                 <div>3.76 kB</div>
-                                <div>1.22%</div>
+                                <div>1.11%</div>
                             </small>
                         </div>
                     </section>
@@ -1263,6 +1263,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">native-components</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#54c617f</div>
+                                        <div class="message">configure the new toast component and utilize both types success and error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a0c74b</div>
+                                        <div class="message">remove unused providers from the main tree</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92a744b</div>
+                                        <div class="message">toast configuration overwriting the success and error layouts to display a custom message in a customized container</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a76bd20</div>
+                                        <div class="message">install the react-native-toast-message to display alerts to the users</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76ba2d3</div>
+                                        <div class="message">remove the old toast component to display notifications to the users</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0293197</div>
+                                        <div class="message">implement the new select component to the AddTemperatureModal component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1531,30 +1571,6 @@
                                     <div class="commit">
                                         <div class="sha">#7170eca</div>
                                         <div class="message">refactor the count tab and create the CountCard and CountGrid components</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">native-components</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d46ae2b</div>
-                                        <div class="message">remove the dialog trigger to report an absence</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93443ce</div>
-                                        <div class="message">include the report absence button to add a new absence</div>
                                     </div>
                                 </div>
                             </section>
