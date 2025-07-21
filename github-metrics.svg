@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2129" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1252,6 +1252,38 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">firebase-auth-setup</span>
+                                        in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">modals-form-validation</span>
+                                        in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1428,198 +1460,6 @@
                                     <div class="commit">
                                         <div class="sha">#385628e</div>
                                         <div class="message">migrate the tabs component into a react native one</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">native-components</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1bc9f02</div>
-                                        <div class="message">remove the selectMaterialStatus selector</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#481e5b9</div>
-                                        <div class="message">remove pages from the root stack</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7db2f0</div>
-                                        <div class="message">remove the user when updating the temperature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#203ad1d</div>
-                                        <div class="message">create a linking to display each of the paths in web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0417e78</div>
-                                        <div class="message">each tab already contain the TabsContent component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18ba0cd</div>
-                                        <div class="message">removed the htmlFor param for the label component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14180f3</div>
-                                        <div class="message">extracted the overheads tab from the materials page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd930cb</div>
-                                        <div class="message">extracted the sets tab from the materials page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95f8a2b</div>
-                                        <div class="message">extracted the ingredients tab from the materials page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75b53ca</div>
-                                        <div class="message">use the dialog component instead of an independent modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f3b190</div>
-                                        <div class="message">migrate the collapsible component to a react native one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#163f7b9</div>
-                                        <div class="message">migrate the dialog component to a react native component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b484e62</div>
-                                        <div class="message">refactor the administration page extracting the temperatures, staff and count tabs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8a5174</div>
-                                        <div class="message">include the method calculateLatestPriceFromMaterial</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cdd444</div>
-                                        <div class="message">configure splash icon background color</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acbc44e</div>
-                                        <div class="message">remove unused ui components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#358d5e1</div>
-                                        <div class="message">remove unused component ui command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f09d33f</div>
-                                        <div class="message">remove unused component ui context-menu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95360c2</div>
-                                        <div class="message">migrate the dialog component to a react native one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#530ba06</div>
-                                        <div class="message">delete unused pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">native-components</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a290d9c</div>
-                                        <div class="message">delete unused ui component slider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#042758a</div>
-                                        <div class="message">image not used anymore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f28f29</div>
-                                        <div class="message">delete unused ui component carousel</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69374da</div>
-                                        <div class="message">delete unused ui component breadcrumb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66d009a</div>
-                                        <div class="message">delete unused ui component avatar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd88bed</div>
-                                        <div class="message">delete unused ui component aspect-ratio</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab5c424</div>
-                                        <div class="message">delete unused ui component alert</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41c7aa5</div>
-                                        <div class="message">delete unused ui component alert-dialog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bea4e9b</div>
-                                        <div class="message">delete unused component ui accordion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05b16bf</div>
-                                        <div class="message">delete not used page provider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6c4360</div>
-                                        <div class="message">remove pages that don't form part of the react native app</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89adb76</div>
-                                        <div class="message">create the calendar modal that displays the calendar picker component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcb970f</div>
-                                        <div class="message">include the calendar modal inside the count, staff and temperatures tabs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7696d2a</div>
-                                        <div class="message">convert the text area component into a react native one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a44ee84</div>
-                                        <div class="message">replace the html calendar for a react native calendar from the library react-native-calendars</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69134c5</div>
-                                        <div class="message">display that there is no content instead of displaying an empty table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08c215c</div>
-                                        <div class="message">show the add account model when tapping the add account button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f29041</div>
-                                        <div class="message">remove unused imports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916dc45</div>
-                                        <div class="message">remove the logic to display the count grid depending on the dimensions of the screen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e1a254</div>
-                                        <div class="message">move the count card to a new file</div>
                                     </div>
                                 </div>
                             </section>
