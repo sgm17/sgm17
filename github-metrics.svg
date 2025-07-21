@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1499" class="">
     <defs>
         <style/>
     </defs>
@@ -1167,15 +1167,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 488kb of code in 352 edited files across 126 commits over last 13 days</small>
+                <small>estimation from 573kb of code in 433 edited files across 138 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.6046340490146" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="436.6046340490146" y="0" width="18.917253566745956" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.52188761576053" y="0" width="4.478112384239466" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.54671564029917" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.54671564029917" y="0" width="22.807210516236427" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.3539261565356" y="0" width="4.36063384189308" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="456.7145599984286" y="0" width="3.2854400015713465" height="8" fill="#6866fb"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1187,9 +1188,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>13.6k lines</div>
-                                <div>366 kB</div>
-                                <div>94.91%</div>
+                                <div>14.1k lines</div>
+                                <div>380 kB</div>
+                                <div>93.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1200,9 +1201,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>753 lines</div>
-                                <div>15.8 kB</div>
-                                <div>4.11%</div>
+                                <div>888 lines</div>
+                                <div>20.1 kB</div>
+                                <div>4.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1213,9 +1214,22 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>99 lines</div>
-                                <div>3.76 kB</div>
-                                <div>0.97%</div>
+                                <div>103 lines</div>
+                                <div>3.86 kB</div>
+                                <div>0.95%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#6866fb" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Objective-C++
+                            </div>
+                            <small>
+                                <div>53 lines</div>
+                                <div>2.91 kB</div>
+                                <div>0.71%</div>
                             </small>
                         </div>
                     </section>
@@ -1248,6 +1262,66 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">firebase-auth-setup</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1bd5c8c</div>
+                                        <div class="message">move imports order</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#282af41</div>
+                                        <div class="message">handle the errors state locally for field validation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3076f4</div>
+                                        <div class="message">create all the logic to create an account with email and password using the firebase authentication service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#357ed7d</div>
+                                        <div class="message">expo build successful</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95913fe</div>
+                                        <div class="message">include the CLIENT_REVERSE_ID to handle oauth2 logins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bd6834</div>
+                                        <div class="message">ios prebuild</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1455cde</div>
+                                        <div class="message">android prebuild</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#048e916</div>
+                                        <div class="message">create the separator ui component used inside the Auth page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf63a4c</div>
+                                        <div class="message">remove the register state and continue only with the login one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2bbf79</div>
+                                        <div class="message">include firebase configuration and packages inside the plugin object</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#330dfeb</div>
+                                        <div class="message">installation of firebase dependencies</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1412,54 +1486,6 @@
                                     <div class="commit">
                                         <div class="sha">#0293197</div>
                                         <div class="message">implement the new select component to the AddTemperatureModal component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">native-components</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d47e834</div>
-                                        <div class="message">create a generic select component to select items from a list of elements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cebdbe4</div>
-                                        <div class="message">instalation of the react native picker to migrate the select component to react native</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1d297b</div>
-                                        <div class="message">migrate the SelectedMaterialItem component to a react native one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5a0588</div>
-                                        <div class="message">implement the new tabs component to the materials page and its components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bced9f9</div>
-                                        <div class="message">implement the new tabs component on the administration page and its components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d323cd7</div>
-                                        <div class="message">implement the new tabs component on the Profile page and its components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#881cbb8</div>
-                                        <div class="message">install the plugin expo-splash-screen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#385628e</div>
-                                        <div class="message">migrate the tabs component into a react native one</div>
                                     </div>
                                 </div>
                             </section>
