@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1220" class="">
     <defs>
         <style/>
     </defs>
@@ -1178,16 +1178,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 595kb of code in 447 edited files across 146 commits over last 13 days</small>
+                <small>estimation from 602kb of code in 450 edited files across 148 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.341068450956" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="424.341068450956" y="0" width="28.314068259916933" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.65513671087297" y="0" width="4.188850392809383" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="456.84398710368237" y="0" width="3.1560128963176624" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.3602507658531" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="422.3602507658531" y="0" width="30.37388563415903" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.7341364000121" y="0" width="4.143796064926612" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="456.87793246493874" y="0" width="3.1220675350612566" height="8" fill="#6866fb"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1199,9 +1199,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>14.5k lines</div>
-                                <div>391 kB</div>
-                                <div>92.25%</div>
+                                <div>14.6k lines</div>
+                                <div>393 kB</div>
+                                <div>91.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1212,9 +1212,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.16k lines</div>
-                                <div>26.1 kB</div>
-                                <div>6.16%</div>
+                                <div>1.27k lines</div>
+                                <div>28.3 kB</div>
+                                <div>6.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1227,7 +1227,7 @@
                             <small>
                                 <div>103 lines</div>
                                 <div>3.86 kB</div>
-                                <div>0.91%</div>
+                                <div>0.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1240,7 +1240,7 @@
                             <small>
                                 <div>53 lines</div>
                                 <div>2.91 kB</div>
-                                <div>0.69%</div>
+                                <div>0.68%</div>
                             </small>
                         </div>
                     </section>
@@ -1273,6 +1273,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/delit-react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#445107a</div>
+                                        <div class="message">refactor the authentication by extracting the sign in and create to a new file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1405,102 +1425,6 @@
                                         <span class="code">modals-form-validation</span>
                                         in
                                         <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">sgm17/delit-react-native</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">native-components</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#15be9d0</div>
-                                        <div class="message">generate the status, currencies, languages and monthNames constants</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8af4fbb</div>
-                                        <div class="message">create the type DateOption to be able to select a month and a year of a list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af14f79</div>
-                                        <div class="message">create both types Currency and Language used inside the Preferences tab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#745eaa5</div>
-                                        <div class="message">create the type to select between active and disabled</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f024a3e</div>
-                                        <div class="message">allow setting as selectedValue an undefined value</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea4f7db</div>
-                                        <div class="message">remove the primitive import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a5fd0e</div>
-                                        <div class="message">lint fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d14008</div>
-                                        <div class="message">remove the properties on openChange and the children props from the Collapsible component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75ebf3</div>
-                                        <div class="message">convert the checkbox component into a react native one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89c9d30</div>
-                                        <div class="message">create two separate selectors to store the selected year and month</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c768a62</div>
-                                        <div class="message">remove the title tag from inside the TableHead component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5ea088</div>
-                                        <div class="message">refactor the MaterialSelector component extracting the OverheadsTab and IngredientsTab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f423d0</div>
-                                        <div class="message">convert into a react native component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a331e42</div>
-                                        <div class="message">lint fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d23f661</div>
-                                        <div class="message">make the materialType nullable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67cf14a</div>
-                                        <div class="message">installation of the lucide-react-native package</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52ff85e</div>
-                                        <div class="message">use the component select for both currency and language preferences</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9533dbf</div>
-                                        <div class="message">remove use state undefined value explicity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f77a3b</div>
-                                        <div class="message">remove unused use-mobile hook</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d2f7b</div>
-                                        <div class="message">fix: send the material id of the selected set instead of the one inside the form</div>
                                     </div>
                                 </div>
                             </section>
