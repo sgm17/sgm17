@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1120" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1188,16 +1188,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 472kb of code in 404 edited files across 167 commits over last 12 days</small>
+                <small>estimation from 474kb of code in 411 edited files across 181 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.6594820160903" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="417.6594820160903" y="0" width="36.119363074684195" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.77884509077444" y="0" width="3.440558865197169" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="457.21940395597164" y="0" width="2.7805960440283752" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.8982840815407" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="415.8982840815407" y="0" width="37.906794545519716" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.8050786270604" y="0" width="3.426050622410888" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="457.23112924947134" y="0" width="2.768870750528704" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1211,7 +1211,7 @@
                             <small>
                                 <div>13k lines</div>
                                 <div>353 kB</div>
-                                <div>90.8%</div>
+                                <div>90.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1222,9 +1222,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.14k lines</div>
-                                <div>30.5 kB</div>
-                                <div>7.85%</div>
+                                <div>1.20k lines</div>
+                                <div>32.1 kB</div>
+                                <div>8.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1237,7 +1237,7 @@
                             <small>
                                 <div>53 lines</div>
                                 <div>2.91 kB</div>
-                                <div>0.75%</div>
+                                <div>0.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1291,14 +1291,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sgm17/delit-react</span>
+                                        <span class="repo">sgm17/delit-next</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f7b01f</div>
-                                        <div class="message">add more verbose to detect bugs</div>
+                                        <div class="sha">#9b8af68</div>
+                                        <div class="message">rollback and remove the extra fields</div>
                                     </div>
                                 </div>
                             </section>
@@ -1317,8 +1317,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#abffe0a</div>
-                                        <div class="message">fix: respond first with cors headers</div>
+                                        <div class="sha">#f945db6</div>
+                                        <div class="message">add extra fields to the cookie object</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/delit-next</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8962858</div>
+                                        <div class="message">modify the setted session cookie</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/delit-next</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5c2d1d</div>
+                                        <div class="message">rename the cookie name from session to __session</div>
                                     </div>
                                 </div>
                             </section>
@@ -1337,72 +1377,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd8bfbe</div>
-                                        <div class="message">debug the app to understand the issues with cookies</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#18f200d</div>
-                                        <div class="message">check whether the token is undefined before verifying it or not</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0c5aa4</div>
-                                        <div class="message">modify the cors to allow requests from new origins</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">sgm17/delit-react</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6515c65</div>
-                                        <div class="message">get the domain depending on the environment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3708f2b</div>
-                                        <div class="message">redirect depending on the environment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c936c35</div>
-                                        <div class="message">recover the environment helper to get the current one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d924be</div>
-                                        <div class="message">create the send cookie method to send a cookie to the backend</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13b854c</div>
-                                        <div class="message">send cookie after registering for the first time or once you press log in again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d89414</div>
-                                        <div class="message">remove the persistence</div>
+                                        <div class="sha">#7222724</div>
+                                        <div class="message">set auth persistence</div>
                                     </div>
                                 </div>
                             </section>
