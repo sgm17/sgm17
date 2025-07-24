@@ -1188,16 +1188,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 474kb of code in 413 edited files across 185 commits over last 13 days</small>
+                <small>estimation from 475kb of code in 418 edited files across 195 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.8301462720342" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="415.8301462720342" y="0" width="37.97594728677408" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.8060935588083" y="0" width="3.425489322704676" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="457.23158288151296" y="0" width="2.7684171184870032" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.57678594671575" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.57678594671575" y="0" width="39.2479767650189" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.82476271173465" y="0" width="3.4151645002973283" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="457.23992721203194" y="0" width="2.7600727879680367" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1211,7 +1211,7 @@
                             <small>
                                 <div>13k lines</div>
                                 <div>353 kB</div>
-                                <div>90.4%</div>
+                                <div>90.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1222,9 +1222,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.20k lines</div>
-                                <div>32.2 kB</div>
-                                <div>8.26%</div>
+                                <div>1.24k lines</div>
+                                <div>33.4 kB</div>
+                                <div>8.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1297,8 +1297,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bea7dc2</div>
-                                        <div class="message">remove http only</div>
+                                        <div class="sha">#f99de16</div>
+                                        <div class="message">finally</div>
                                     </div>
                                 </div>
                             </section>
@@ -1317,8 +1317,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce4d962</div>
-                                        <div class="message">deploy the app to europe-west-4 region</div>
+                                        <div class="sha">#85dd2d5</div>
+                                        <div class="message">test2</div>
                                     </div>
                                 </div>
                             </section>
@@ -1337,8 +1337,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b8af68</div>
-                                        <div class="message">rollback and remove the extra fields</div>
+                                        <div class="sha">#534957f</div>
+                                        <div class="message">cookie test</div>
                                     </div>
                                 </div>
                             </section>
@@ -1357,8 +1357,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f945db6</div>
-                                        <div class="message">add extra fields to the cookie object</div>
+                                        <div class="sha">#ce1e01d</div>
+                                        <div class="message">last attempt</div>
                                     </div>
                                 </div>
                             </section>
@@ -1377,8 +1377,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8962858</div>
-                                        <div class="message">modify the setted session cookie</div>
+                                        <div class="sha">#cd037a6</div>
+                                        <div class="message">the cookie can be readed by the subdomain and the domain</div>
                                     </div>
                                 </div>
                             </section>
