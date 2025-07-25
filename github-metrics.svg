@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1036" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
     <defs>
         <style/>
     </defs>
@@ -1156,16 +1156,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 477kb of code in 425 edited files across 210 commits over last 13 days</small>
+                <small>estimation from 478kb of code in 428 edited files across 214 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.26411790234533" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.26411790234533" y="0" width="41.595092647346206" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.8592105496915" y="0" width="3.396113405123077" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="457.25532395481457" y="0" width="2.744676045185409" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.61747415365903" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="411.61747415365903" y="0" width="42.25136833569836" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.8688424893574" y="0" width="3.390786539631056" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="457.25962902898846" y="0" width="2.740370971011555" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1179,7 +1179,7 @@
                             <small>
                                 <div>13k lines</div>
                                 <div>353 kB</div>
-                                <div>89.62%</div>
+                                <div>89.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1190,9 +1190,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.30k lines</div>
-                                <div>35.6 kB</div>
-                                <div>9.04%</div>
+                                <div>1.33k lines</div>
+                                <div>36.2 kB</div>
+                                <div>9.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1259,6 +1259,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">sgm17/delit-next</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d7868c5</div>
+                                        <div class="message">create a cross domain cookie when in production</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sgm17/delit-react</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#acf08bb</div>
+                                        <div class="message">fix: add dependencies to the useEffect hook</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">sgm17/delit-react</span>
                                     </div>
                                 </div>
@@ -1307,50 +1347,6 @@
                                     <div class="commit">
                                         <div class="sha">#fd2c6e9</div>
                                         <div class="message">with credential header</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c8677c</div>
-                                        <div class="message">extract the cookie options object</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c79395</div>
-                                        <div class="message">update cors headers</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d71f704</div>
-                                        <div class="message">otro test</div>
                                     </div>
                                 </div>
                             </section>
