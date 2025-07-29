@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1153" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1220" class="">
     <defs>
         <style/>
     </defs>
@@ -1178,16 +1178,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 862kb of code in 730 edited files across 314 commits over last 13 days</small>
+                <small>estimation from 863kb of code in 735 edited files across 318 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.8567991172913" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="403.8567991172913" y="0" width="51.54810173939961" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.40490085669086" y="0" width="2.5412820167084154" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="457.94618287339927" y="0" width="2.0538171266007166" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.9231463777353" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.9231463777353" y="0" width="51.48718474005281" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.4103311177881" y="0" width="2.538278855200461" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="457.94860997298855" y="0" width="2.051390027011442" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1201,7 +1201,7 @@
                             <small>
                                 <div>15.6k lines</div>
                                 <div>462 kB</div>
-                                <div>87.79%</div>
+                                <div>87.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1214,7 +1214,7 @@
                             <small>
                                 <div>2.25k lines</div>
                                 <div>59 kB</div>
-                                <div>11.21%</div>
+                                <div>11.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1273,6 +1273,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">sgm17/delit-react-native</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#751ee00</div>
+                                        <div class="message">fix: stop calling the trim method on strings that can have more than 1 word</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a99363</div>
+                                        <div class="message">fix: explicitily check for arrays with length greater than 0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61894cc</div>
+                                        <div class="message">fix: tabs inside the AddSetModal were not displaying</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1393,22 +1421,6 @@
                                     <div class="commit">
                                         <div class="sha">#0c3250e</div>
                                         <div class="message">extract the firebase web configuration into the environment file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">i18n-internationalization</span>
-                                        in
-                                        <span class="repo">sgm17/delit-react</span>
                                     </div>
                                 </div>
                             </section>
