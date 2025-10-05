@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.boolean{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1166,15 +1166,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 124kb of code in 184 edited files across 53 commits over last 10 days</small>
+                <small>estimation from 198kb of code in 242 edited files across 81 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.93440713957193" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="372.93440713957193" y="0" width="73.62448747932793" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.5588946188999" y="0" width="13.441105381100098" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.832298136646" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="288.832298136646" y="0" width="161.8944099378882" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.72670807453414" y="0" width="9.27329192546584" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1186,9 +1186,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.43k lines</div>
-                                <div>82.8 kB</div>
-                                <div>81.07%</div>
+                                <div>4.77k lines</div>
+                                <div>93 kB</div>
+                                <div>62.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1199,9 +1199,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>639 lines</div>
-                                <div>16.3 kB</div>
-                                <div>16.01%</div>
+                                <div>2k lines</div>
+                                <div>52.1 kB</div>
+                                <div>35.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1214,7 +1214,7 @@
                             <small>
                                 <div>48 lines</div>
                                 <div>2.99 kB</div>
-                                <div>2.92%</div>
+                                <div>2.02%</div>
                             </small>
                         </div>
                     </section>
@@ -1247,6 +1247,142 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">sgm17/delit-vite</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bf7f58e</div>
+                                        <div class="message">minimal changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e55bc3d</div>
+                                        <div class="message">changed some fields inside the types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62955b1</div>
+                                        <div class="message">dispatched the data from the backend and fetched inside a useEffect hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77e4296</div>
+                                        <div class="message">updated the endpoint to fetch the custom token and to delete the cookie</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53f6616</div>
+                                        <div class="message">exported the actions to fetch the data from the backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d31d4f</div>
+                                        <div class="message">created the authGate hook that handles the user authentication</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4809df</div>
+                                        <div class="message">retrieve the authorization token and the x-store-id header from the local storage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c63e537</div>
+                                        <div class="message">created the calculateProductSaleTotalCost and calculateSetTotalCost helper functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c446e7</div>
+                                        <div class="message">setup the firebase configuration and import the env variables in a different way</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a79a324</div>
+                                        <div class="message">remove the constants file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d85fa0</div>
+                                        <div class="message">yarn update after installing the firebase packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#252045f</div>
+                                        <div class="message">ignore the env file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#251dbcb</div>
+                                        <div class="message">install firebase and react spinners packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7b28f9</div>
+                                        <div class="message">deleted the ShiftSummary page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">sgm17/delit-next</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7224124</div>
+                                        <div class="message">remove unused import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69119c7</div>
+                                        <div class="message">modified some dates on the seed file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68661ce</div>
+                                        <div class="message">include the users inside the stores service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d5263f</div>
+                                        <div class="message">include the products inside the sales service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6614cc</div>
+                                        <div class="message">create the shifts endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe467a6</div>
+                                        <div class="message">allow the x-store-id header</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9f4adf</div>
+                                        <div class="message">create the sales endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53bb8ba</div>
+                                        <div class="message">rename the variables to provider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c589d85</div>
+                                        <div class="message">include the items within the order endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a115b5</div>
+                                        <div class="message">add another allowed origin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#578427f</div>
+                                        <div class="message">created the provider endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9f4812</div>
+                                        <div class="message">rename the stores file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1323,82 +1459,6 @@
                                     <div class="commit">
                                         <div class="sha">#ae8342d</div>
                                         <div class="message">default boolean value for the isActive column</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#582a159</div>
-                                        <div class="message">implement the product service methods inside its route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#644bae5</div>
-                                        <div class="message">implement the set material service methods inside its route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55c6765</div>
-                                        <div class="message">implement the temperature service methods into its route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bfdb73</div>
-                                        <div class="message">create the appliance CRUD endpoints</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c289256</div>
-                                        <div class="message">implement the product sets service and implement its methods inside the route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a80456f</div>
-                                        <div class="message">create product materials service and implement the methods into the route file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad6c50e</div>
-                                        <div class="message">implement the materials service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2e9f7f</div>
-                                        <div class="message">create the orders endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#529ce2f</div>
-                                        <div class="message">fix the seed file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a3bd4b0</div>
-                                        <div class="message">make the aiConfidence field inside the price nullable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#715e833</div>
-                                        <div class="message">move the price feature in an independent endpoint</div>
                                     </div>
                                 </div>
                             </section>
