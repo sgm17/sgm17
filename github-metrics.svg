@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1533" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1173,15 +1173,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 236kb of code in 253 edited files across 108 commits over last 12 days</small>
+                <small>estimation from 392kb of code in 429 edited files across 130 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.4953524294734" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="269.4953524294734" y="0" width="188.0289423050866" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.52429473456004" y="0" width="2.4757052654399607" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.42865608649151" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="248.42865608649151" y="0" width="209.92079322406266" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.3494493105542" y="0" width="1.6505506894458417" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1190,12 +1190,12 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSX
+                                TypeScript
                             </div>
                             <small>
-                                <div>3.96k lines</div>
-                                <div>108 kB</div>
-                                <div>58.59%</div>
+                                <div>5.90k lines</div>
+                                <div>149 kB</div>
+                                <div>54.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1203,12 +1203,12 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                TSX
                             </div>
                             <small>
-                                <div>3.10k lines</div>
-                                <div>75.4 kB</div>
-                                <div>40.88%</div>
+                                <div>4.56k lines</div>
+                                <div>126 kB</div>
+                                <div>45.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1221,7 +1221,7 @@
                             <small>
                                 <div>24 lines</div>
                                 <div>993 bytes</div>
-                                <div>0.54%</div>
+                                <div>0.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1254,6 +1254,118 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">sgm17/delit-vite</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#28bdc5d</div>
+                                        <div class="message">fix: update store ID handling to ensure consistent type usage across components and APIs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#738d27c</div>
+                                        <div class="message">refactor: update variant handling in store and order components; implement subtotal, tax, and total calculations in order detail</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#705a04a</div>
+                                        <div class="message">updated the ID type from string to number in multiple components and modals; adjusted API functions to reflect parameter changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c322656</div>
+                                        <div class="message">change the ID type from string to number in order entities and order elements; update the success status in order and supplier slices</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b467eee</div>
+                                        <div class="message">implemented types and APIs for managing prices, products, materials, and material sets, updating ID types from string to number.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abca408</div>
+                                        <div class="message">change the ID type from string to number in modifiers and update API functions to reflect parameter changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#379198c</div>
+                                        <div class="message">change the ID type from string to number in multiple entities and APIs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f506e64</div>
+                                        <div class="message">renamed the variant feature to productVariant</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">sgm17/delit-next</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ab06c6</div>
+                                        <div class="message">refactor: change storeId type from number to string across multiple services and routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb6421c</div>
+                                        <div class="message">fix: convert priceId to number in PUT route for price updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c602d6</div>
+                                        <div class="message">refactor: update product variant handling in PUT and DELETE routes; add deletion of related sales and materials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6bae22</div>
+                                        <div class="message">set the default value of isDefault in the ProductVariant model to false</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32c84ca</div>
+                                        <div class="message">nested the product variant and modifiers features inside the products feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d8e6ec</div>
+                                        <div class="message">substituted all foreign keys with an string type to a number type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cd1852</div>
+                                        <div class="message">converted the id from an string into an integer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d50507e</div>
+                                        <div class="message">updated the seed file with valid quantities inside the price model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ad4f82</div>
+                                        <div class="message">added the quantity field on the price model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dcab79</div>
+                                        <div class="message">updated the order item model by removing the costs fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#567e237</div>
+                                        <div class="message">linked the productSetMaterial with the productVariant and the orderItem with the price</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85daea7</div>
+                                        <div class="message">extracted the whole product variant</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1343,142 +1455,6 @@
                                     <div class="content">
                                         Added sgm17 as collaborator in
                                         <span class="repo">dastuzh/FDS25-T081</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">sgm17/delit-vite</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#55e056f</div>
-                                        <div class="message">generated a more suitable version of the edit product modal that allows to modify the variants and modifiers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2ca696</div>
-                                        <div class="message">extracted the calculate profit margin percent method that returns the profit and the margin percent</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66c7847</div>
-                                        <div class="message">implemented the shifts and entries logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8181acd</div>
-                                        <div class="message">small changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffb0ddf</div>
-                                        <div class="message">implemented the logic to update the name of an store</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89fd62c</div>
-                                        <div class="message">implemented the logic to create an absence</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dacf381</div>
-                                        <div class="message">implemented the logic to create absences</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f56f44</div>
-                                        <div class="message">implemented the logic to add temperatures</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d01be15</div>
-                                        <div class="message">implemented the logic to post an appliance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f964224</div>
-                                        <div class="message">create the modifier and variant features</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09733c1</div>
-                                        <div class="message">implemented the logic to retrieve and update the clock pin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0afd6f0</div>
-                                        <div class="message">implement the logout logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c9f02d</div>
-                                        <div class="message">created the clock feature</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">sgm17/delit-next</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#927eff5</div>
-                                        <div class="message">added modifiers and variants to the seed file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d598a6b</div>
-                                        <div class="message">updated the seed file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bfab01</div>
-                                        <div class="message">updated the prisma schema</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b68b649</div>
-                                        <div class="message">added modifier variant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a850ec</div>
-                                        <div class="message">add image field</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1916b5</div>
-                                        <div class="message">added the await keyword to all the services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a7b677</div>
-                                        <div class="message">added a flag to check the store or not</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6264edc</div>
-                                        <div class="message">improved the stores feature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e250875</div>
-                                        <div class="message">created the clock feature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4997cf8</div>
-                                        <div class="message">created the entry feature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9b286e</div>
-                                        <div class="message">added fields to the shift model</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aeb56a</div>
-                                        <div class="message">instead of start and end date, replaced for start and end time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9cf9c6</div>
-                                        <div class="message">added the color field inside the shift model</div>
                                     </div>
                                 </div>
                             </section>
