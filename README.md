@@ -23,7 +23,7 @@ Documenting every launch, failure, and lesson in public — daily on Instagram/T
 [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
 ```
 
-`Month 1 of 12` · `Next Launch: 2026-07-20`
+`Month 1 of 12` · `Next Launch: 2026-07-27`
 <!-- PROGRESS:END -->
 
 ---
