@@ -4,62 +4,62 @@
     "name": "Delixya",
     "month": 1,
     "description": "AI that trims ingredient costs and food waste for restaurants.",
-    "status": "progress",
+    "status": "live",
     "links": {
       "appStore": "",
-      "playStore": "",
+      "playStore": "https://play.google.com/store/apps/details?id=com.montmany.delixya",
       "web": "",
       "repo": ""
     }
   },
   {
-    "slug": "startup-02",
-    "name": "",
+    "slug": "huddlyn",
+    "name": "Huddlyn",
     "month": 2,
-    "description": "",
-    "status": "not-started",
+    "description": "The social app for verified university students — anonymous campus stories, real meetups, and instant chat.",
+    "status": "live",
     "links": {
       "appStore": "",
-      "playStore": "",
+      "playStore": "https://play.google.com/store/apps/details?id=com.montmany.huddlyn",
       "web": "",
       "repo": ""
     }
   },
   {
-    "slug": "startup-03",
-    "name": "",
+    "slug": "syncnito",
+    "name": "Syncnito",
     "month": 3,
-    "description": "",
-    "status": "not-started",
+    "description": "Shift scheduling and communication that hourly teams actually use — draft, publish, and keep every store in sync.",
+    "status": "live",
     "links": {
       "appStore": "",
-      "playStore": "",
+      "playStore": "https://play.google.com/store/apps/details?id=com.montmany.syncnito",
       "web": "",
       "repo": ""
     }
   },
   {
-    "slug": "startup-04",
-    "name": "",
+    "slug": "socialize",
+    "name": "Socialize",
     "month": 4,
-    "description": "",
-    "status": "not-started",
+    "description": "Where organizers publish events, sell tickets, and people find what's worth showing up for.",
+    "status": "live",
     "links": {
       "appStore": "",
-      "playStore": "",
+      "playStore": "https://play.google.com/store/apps/details?id=com.montmany.socialize",
       "web": "",
       "repo": ""
     }
   },
   {
-    "slug": "startup-05",
-    "name": "",
+    "slug": "stark",
+    "name": "Stark",
     "month": 5,
-    "description": "",
-    "status": "not-started",
+    "description": "The workout tracker for lifters who want more than a logbook — templates, supersets, RPE, and PR tracking.",
+    "status": "live",
     "links": {
       "appStore": "",
-      "playStore": "",
+      "playStore": "https://play.google.com/store/apps/details?id=com.montmany.stark",
       "web": "",
       "repo": ""
     }

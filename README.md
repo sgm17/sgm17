@@ -17,13 +17,13 @@ Documenting every launch, failure, and lesson in public — daily on Instagram/T
 ## 📊 Live Progress Tracker
 
 <!-- PROGRESS:START -->
-**Current Progress: `0 / 24` Apps Built**
+**Current Progress: `5 / 24` Apps Built**
 
 ```
-[░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+[█████░░░░░░░░░░░░░░░░░░░] 21%
 ```
 
-`Month 2 of 12` · `Next Launch: 2026-08-31`
+`Month 2 of 12` · `Next Launch: 2026-09-27`
 <!-- PROGRESS:END -->
 
 ---
@@ -65,11 +65,11 @@ Generated from [`data/projects.json`](data/projects.json) — run `node scripts/
 
 | Month | App Name       | Description                                                                                         | Links & Status                                           |
 | ----- | -------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 01    | **Delixya** | AI that trims ingredient costs and food waste for restaurants. | 🟡 In Development |
-| 02    | — | Building in Public... 🛠️ | ⚪ Upcoming |
-| 03    | — | Building in Public... 🛠️ | ⚪ Upcoming |
-| 04    | — | Building in Public... 🛠️ | ⚪ Upcoming |
-| 05    | — | Building in Public... 🛠️ | ⚪ Upcoming |
+| 01    | **Delixya** | AI that trims ingredient costs and food waste for restaurants. | 🟢 Live · [Play Store](https://play.google.com/store/apps/details?id=com.montmany.delixya) |
+| 02    | **Huddlyn** | The social app for verified university students — anonymous campus stories, real meetups, and instant chat. | 🟢 Live · [Play Store](https://play.google.com/store/apps/details?id=com.montmany.huddlyn) |
+| 03    | **Syncnito** | Shift scheduling and communication that hourly teams actually use — draft, publish, and keep every store in sync. | 🟢 Live · [Play Store](https://play.google.com/store/apps/details?id=com.montmany.syncnito) |
+| 04    | **Socialize** | Where organizers publish events, sell tickets, and people find what's worth showing up for. | 🟢 Live · [Play Store](https://play.google.com/store/apps/details?id=com.montmany.socialize) |
+| 05    | **Stark** | The workout tracker for lifters who want more than a logbook — templates, supersets, RPE, and PR tracking. | 🟢 Live · [Play Store](https://play.google.com/store/apps/details?id=com.montmany.stark) |
 | 06    | — | Building in Public... 🛠️ | ⚪ Upcoming |
 | 07    | — | Building in Public... 🛠️ | ⚪ Upcoming |
 | 08    | — | Building in Public... 🛠️ | ⚪ Upcoming |
